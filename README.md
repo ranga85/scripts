@@ -1,2 +1,1 @@
-# scripts
-This is a line from RStudio
+Scripts developed during my PhD. Please feel free to use the scripts and report any issues or improvements. 
